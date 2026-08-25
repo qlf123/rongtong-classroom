@@ -1,0 +1,45 @@
+{
+  "teacher": {
+    "prepTimeSaved": 0.68,
+    "aiAdoptRate": 0.78,
+    "reEditRate": 0.41,
+    "weeklyActive": { "active": 12, "total": 15 },
+    "nextMonthRetention": 0.87
+  },
+  "knowledgeMastery": [
+    { "chapter": "第1章 导游服务概述", "mastery": 0.88 },
+    { "chapter": "第2章 地陪服务程序", "mastery": 0.81 },
+    { "chapter": "第3章 游客个别要求与问题处理", "mastery": 0.73 },
+    { "chapter": "第4章 导游讲解方法与技巧", "mastery": 0.69 },
+    { "chapter": "第5章 旅游安全事故与投诉处理", "mastery": 0.64 }
+  ],
+  "competencyAttainment": [
+    { "axis": "接团与见面服务", "value": 0.85 },
+    { "axis": "食宿与行程服务", "value": 0.79 },
+    { "axis": "景点现场讲解", "value": 0.66 },
+    { "axis": "个别要求处理", "value": 0.71 },
+    { "axis": "应急与投诉处置", "value": 0.58 },
+    { "axis": "内容创作与新媒体", "value": 0.34 }
+  ],
+  "graph": {
+    "coverage": 0.83,
+    "f1": 0.83,
+    "precision": 0.87,
+    "recall": 0.79,
+    "goldStandardSize": 300
+  },
+  "dimCoverage": [
+    { "dim": "岗", "value": 0.89 },
+    { "dim": "课", "value": 0.94 },
+    { "dim": "赛", "value": 0.61 },
+    { "dim": "证", "value": 0.72 }
+  ],
+  "dimCoverageNote": "赛维度覆盖偏低 → 建议在第4、5章补充赛项标准对齐内容",
+  "negative": {
+    "aiRejectRate": 0.09,
+    "teacherChurnRate": 0.06,
+    "lowAdoptMappings": 1,
+    "unsourcedContentRate": 0
+  },
+  "northStar": "本产品不以 AI 功能调用率作为核心指标。调用率高不等于教学效果好，以调用率为考核目标会诱导产品做出打扰性设计。北极星指标为：教师次月留存率 × 岗位能力达成度。"
+}

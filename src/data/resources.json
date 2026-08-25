@@ -1,0 +1,14 @@
+[
+  { "id": "RES-001", "name": "360-720度实景互动教学平台", "kind": "教学平台", "vendorOwned": true },
+  { "id": "RES-002", "name": "虚拟现实多媒体导游实训教学软件", "kind": "虚拟仿真", "vendorOwned": true },
+  { "id": "RES-003", "name": "AI智能导游词创作及发音评测系统", "kind": "AI工具", "vendorOwned": true },
+  { "id": "RES-004", "name": "导游业务管理技能实训系统", "kind": "实训系统", "vendorOwned": true },
+  { "id": "RES-005", "name": "导游证考试教学与学习平台", "kind": "教学平台", "vendorOwned": true },
+  { "id": "RES-006", "name": "全国导游基础虚拟仿真教学平台", "kind": "虚拟仿真", "vendorOwned": true },
+  { "id": "RES-007", "name": "大数据智慧旅游线路定制与设计实训软件", "kind": "大数据平台", "vendorOwned": true },
+  { "id": "RES-008", "name": "旅游直播运营仿真实训平台", "kind": "实训系统", "vendorOwned": true },
+  { "id": "RES-009", "name": "旅游新媒体营销软件", "kind": "实训系统", "vendorOwned": true },
+  { "id": "RES-010", "name": "AI文创平台", "kind": "AI工具", "vendorOwned": true },
+  { "id": "RES-011", "name": "旅游电子沙盘互动实训平台", "kind": "虚拟仿真", "vendorOwned": true },
+  { "id": "RES-012", "name": "旅游教学与课程思政AR交互台", "kind": "教学平台", "vendorOwned": true }
+]
